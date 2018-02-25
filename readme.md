@@ -4,7 +4,7 @@
 ## Usage ##
 
 ```bash
-$ composer require valentininua/helloworld
+$ composer require valentininua/helloworld dev-master
 $ touch helloWorld.php
 ```
 
