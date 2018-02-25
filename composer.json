@@ -1,0 +1,15 @@
+{
+    "name": "valentininua/helloworld",
+    "description": "this is a hello world ",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valentin B",
+            "email": "spam@valentin.in.ua"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Valentininua\\Demo\\": "src" }
+    },
+    "require": {}
+}
